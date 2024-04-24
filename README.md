@@ -4,4 +4,4 @@ This is the repository for the GENED1188 final project quiz to test the students
 
 ## Setup
 
-make sure to run `pip install pandas`
+make sure to run `pip install pandas pillow`
